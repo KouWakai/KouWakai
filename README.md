@@ -1,11 +1,12 @@
 ### who is KouWakai
-Hi! I'm a junior web developpr(mostly writing js,php) who work at japanese startup company.
+Hi! I'm a junior web developpr(mostly writing js,php) who work at startup company.
 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KouWakai&show_icons=true&theme=synthwave)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KouWakai&theme=synthwave&layout=compact)
 
+# Main
 
 <!--
 **KouWakai/KouWakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
