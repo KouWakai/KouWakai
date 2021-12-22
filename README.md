@@ -1,6 +1,3 @@
-### who is KouWakai
-Hi! I'm a junior web developpr(mostly writing js,php) who work at startup company😄
-
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KouWakai&show_icons=true&theme=synthwave)
 
